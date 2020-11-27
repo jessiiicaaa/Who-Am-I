@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-
-=======
-# Who-Am-I
+# Who Am I
 A website to learn all about Jessica
 
-Live Website URL:
->>>>>>> Stashed changes
+Live Website URL: https://jessiiicaaa.github.io/Who-Am-I/
